@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./ERC20.sol";
-import "./Ownable.sol";
+import ".https://github.com/Alirezagolsha/RADIUM/blob/main/erc20.sol/ERC20.sol";
+import ".https://github.com/Alirezagolsha/RADIUM/blob/main/erc20.sol/Ownable.sol";
 
 
 
